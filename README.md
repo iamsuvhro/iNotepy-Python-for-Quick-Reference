@@ -1,1 +1,17 @@
 # iNotepy-Python-for-Quick-Reference
+
+
+<b>Author - Suvhradip Ghosh</b>
+
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.
+
+<h1>Skills you will get</h1>
+<b>1. Basic Python
+  2. Basic Numpy
+  3. Basic Pandas
+  4. Python for Machine Learning
+  5. Function
+  6. Array
+  
+  
+  </b>
