@@ -16,7 +16,11 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
   
   </b>
   
-  # Notebook live at :
+  # Notebook 2 live at :
 <a href="https://suvhradipghosh07.github.io/iNotepy-Python-for-Quick-Reference/"><button>Click Here</button></a>
+# Notebook 1 live at:
 
-
+<a href="https://suvhradipghosh07.github.io/iNotepy-Python-for-Quick-Reference/iNotepy.html">
+  Click Here
+  </a>
+  
