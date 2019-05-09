@@ -1,3 +1,8 @@
+[![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
+[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
+[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
+
 <img src="https://cdn.eventfinda.co.nz/uploads/events/transformed/1233472-549655-34.jpg?v=3">
 
 # iNotepy-Python-for-Quick-Reference
